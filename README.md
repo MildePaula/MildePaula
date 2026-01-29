@@ -2,7 +2,7 @@
 
 - 🔭 Working on personal projects in Python and data analytics
 - 👯 Open to collaborating on data and Python projects
-- 🤝 PyLadies Dublin - volunteer and one of the Python study organizers
+- 🤝 PyLadies Dublin - volunteer and co-organizer of the Python study group.
 - 😄 Pronouns: She/her
 
   ##
